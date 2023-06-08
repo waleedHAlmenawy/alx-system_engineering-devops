@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Fab --format=comma
+ls -Fap --format=comma
