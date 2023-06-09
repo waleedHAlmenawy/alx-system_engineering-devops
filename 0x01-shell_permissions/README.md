@@ -11,4 +11,5 @@
 <p>8-James_Bond : gives no permissions to the owner, the group owner and gives all the permissions to the other users<br>
 <p>9-John_Doe : sets the mode of the file hello to this: -rwxr-x-wx<br>
 <p>10-mirror_permissions : copies file permissions to another<br>
-<p>11-direcotries_permissions : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users<br>
+<p>11-directories_permissions : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed<br>
+<p>12-directory_permissions : creates a directory called my_dir with permissions 751 in the working directory<br>
