@@ -1,1 +1,1 @@
-make shell scripts
+shell script
