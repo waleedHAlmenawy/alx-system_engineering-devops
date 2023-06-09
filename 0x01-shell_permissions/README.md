@@ -9,4 +9,5 @@
 <p>6-multiple_permissions : adds execute permission to the owner and the group owner, and read permission to other users, to the file hello<br>
 <p>7-everybody : adds execution permission to the owner, the group owner and the other users, to the file hello<br>
 <p>8-James_Bond : gives no permissions to the owner, the group owner and gives all the permissions to the other users<br>
-<p>9-John_Doe : script that sets the mode of the file hello to this: -rwxr-x-wx<br>
+<p>9-John_Doe : sets the mode of the file hello to this: -rwxr-x-wx<br>
+<p>10-mirror_permissions : copys file permissions to another<br>
