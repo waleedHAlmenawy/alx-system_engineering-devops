@@ -10,4 +10,5 @@
 <p>7-everybody : adds execution permission to the owner, the group owner and the other users, to the file hello<br>
 <p>8-James_Bond : gives no permissions to the owner, the group owner and gives all the permissions to the other users<br>
 <p>9-John_Doe : sets the mode of the file hello to this: -rwxr-x-wx<br>
-<p>10-mirror_permissions : copys file permissions to another<br>
+<p>10-mirror_permissions : copies file permissions to another<br>
+<p>11-direcotries_permissions : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users<br>
