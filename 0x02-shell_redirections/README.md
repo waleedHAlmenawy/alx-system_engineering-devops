@@ -3,3 +3,4 @@
 <p>1-confused_smiley : displays a confused smiley "(Ôo)'<br>
 <p>2-hellofile : displays the content of the /etc/passwd file<br>
 <p>3-twofiles : displays the content of the /etc/passwd and /etc/hosts<br>
+<p>4-lastlines : displays the last 10 lines of /etc/passwd<br>
