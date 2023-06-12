@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta | grep "Suetonius"
+grep Suetonius iacta
