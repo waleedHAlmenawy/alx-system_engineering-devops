@@ -12,4 +12,5 @@
 <p>10-no_more_js : deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders<br>
 <p>11-directories : counts the number of directories and sub-directories in the current directory<br>
 <p>12-newest_files : displays the 10 newest files in the current directory<br>
+<p>13-unique : takes a list of words as input and prints only words that appear exactly once<br>
 <p>22-users_and_homes : displays all users and their home directories, sorted by users<br>
