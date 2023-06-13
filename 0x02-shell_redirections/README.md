@@ -18,4 +18,7 @@
 <p>16-whatsnext : displyas lines containing the pattern “root” and 3 lines after them in the file /etc/passwd<br>
 <p>17-hidethisword : displays all the lines in the file /etc/passwd that do not contain the pattern “bin”<br>
 <p>18-letteronly : displays all lines of the file /etc/ssh/sshd_config starting with a letter<br>
+<p>19-AZ : replaces all characters A and c from input to Z and e respectively<br>
+<p>20-hiago : removes all letters c and C from input<br>
+<p>21-reverse : reverse its input<br>
 <p>22-users_and_homes : displays all users and their home directories, sorted by users<br>
