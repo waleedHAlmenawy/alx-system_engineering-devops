@@ -11,4 +11,5 @@
 <p>9-duplicate_last_line : duplicates the last line of the file iacta<br>
 <p>10-no_more_js : deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders<br>
 <p>11-directories : counts the number of directories and sub-directories in the current directory<br>
+<p>12-newest_files : displays the 10 newest files in the current directory<br>
 <p>22-users_and_homes : displays all users and their home directories, sorted by users<br>
