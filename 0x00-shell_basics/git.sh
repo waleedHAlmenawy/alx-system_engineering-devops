@@ -14,5 +14,5 @@ echo "<p>$SH_NAME : $SH_MSG<br>" >> README.md
 echo $?
 
 git add .
-git commit -m $SH_MSG
+git commit -m "$SH_MSG"
 git push
