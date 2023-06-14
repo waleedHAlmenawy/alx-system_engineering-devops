@@ -9,3 +9,4 @@
 <p>7-create_global_variable : script that creates a new global variable<br>
 <p>8-true_knowledge : script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line<br>
 <p>9-divide_and_rule : script that prints the result of POWER divided by DIVIDE, followed by a new line<br>
+<p>10-love_exponent_breath : script that displays the result of BREATH to the power LOVE<br>
